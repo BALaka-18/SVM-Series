@@ -13,3 +13,8 @@ Notebook 3 : Notebook to visualize the decision boundary hyperplane of SVM algor
 
 ![Screenshot (223)](https://user-images.githubusercontent.com/49288068/87726936-9c2b3a80-c7dd-11ea-8fc6-ce6941d82621.png)
 ___________________________________________________________________________________________________________________________________________________________________________________
+
+Notebook 4 : Notebook to find out the best hyperparameters for a SVC working on the very popular Breast Cancer dataset
+
+![Screenshot (229)](https://user-images.githubusercontent.com/49288068/87879758-4a1b2c80-ca0a-11ea-8ee5-acf6eda8bac1.png)
+___________________________________________________________________________________________________________________________________________________________________________________
